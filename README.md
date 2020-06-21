@@ -41,28 +41,13 @@ Essa é a aplicação GoFinances, de gestão de transações no qual o usuário 
   $ cd gofinances
 ```
 
-## :gear: Iniciando back-end
-```bash
-  # Entrar no diretório do back-end:
-  $ cd backend
-
-  # Instalar as dependências:
-  $ npm install
-
-  # Rodar as migrations:
-  $ npm run typeorm migration:run
-
-  # Rodar a aplicação:
-  $ npm run dev:server
-```
-
 ## :computer: Iniciando front-end
 ```bash
   # Entrar no diretório do back-end:
-  $ cd frontend
+  $ cd gofinances-front
 
   # Instalar as dependências:
-  $ npm
+  $ npm install
 
   # Rodar a aplicação:
   $ npm start
