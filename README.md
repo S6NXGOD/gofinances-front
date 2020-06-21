@@ -38,7 +38,7 @@ Essa é a aplicação GoFinances, de gestão de transações no qual o usuário 
   $ git clone https://github.com/S6NXGOD/gofinances-front.git
 
   # Entrar no diretório:
-  $ cd gofinances
+  $ cd gofinances-front
 ```
 
 ## :computer: Iniciando front-end
