@@ -7,6 +7,14 @@
 </h3>
 
 <p align="center">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/S6NXGOD/gofinances-front">
+
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/S6NXGOD/gofinances-front">
+
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-pinto-do-%C3%B3-baa689192/">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Jo%C3%A3o%20Pedro-gree">
+  </a>
+  
   <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#books-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-começando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
