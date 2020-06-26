@@ -14,12 +14,6 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-pinto-do-%C3%B3-baa689192/">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-Jo%C3%A3o%20Pedro-gree">
   </a>
-  
-  <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#books-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-começando">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#gear-iniciando-back-end">Node.js</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-iniciando-front-end">ReactJS</a>
 </p>
 
 <h1 align="center">
